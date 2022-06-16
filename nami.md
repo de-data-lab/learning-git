@@ -1,7 +1,7 @@
 ---
 title: Nami Sunami
 layout: template
-filename: nami.md
+filename: nami
 --- 
 
 
