@@ -1,7 +1,6 @@
 ---
 title: Learning Git/GitHub
 layout: template
-filename: index
 --- 
 
 
