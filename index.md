@@ -1,7 +1,7 @@
 ---
 title: Learning Git/GitHub
 layout: template
-filename: index.md
+filename: index
 --- 
 
 
