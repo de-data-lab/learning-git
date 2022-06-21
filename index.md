@@ -9,8 +9,8 @@ Add yourself to the list of awesome people above!
 
 ## Steps
 
-1. Go to <a href="{{ site.github.repository_url }}">our repo</a> & clone the repo to your
-2. Open an issue to tell the world that you are adding your profile
+1. Go to <a href="{{ site.github.repository_url }}">our repo</a> & clone the repo to your local
+2. Open a GitHub issue
 3. Create a branch with your name, issue #, and a short word phrase about your profile
 4. Develop your profile using a Markdown and name it as `{yourname}.md`. Save your file under the `/profiles` directory. See [Nami's example]({% link profiles/nami.md %}). You can put anything you'd like there. Some suggestions:
    1. Your picture
