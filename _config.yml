@@ -2,4 +2,5 @@ title: Awesome People
 theme: jekyll-theme-cayman
 exclude: ["README.md", "LICENSE"]
 url: "de-data-lab.github.io"
-baseurl: "/"
+baseurl: ""
+permalink: /:title
