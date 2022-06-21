@@ -1,0 +1,5 @@
+# Ignore jekyll cache
+.jekyll-cache
+
+# Ignore built site
+_site
