@@ -1,6 +1,6 @@
 title: Awesome People
 theme: jekyll-theme-cayman
 exclude: ["README.md", "LICENSE"]
-domain: my-site.github.io
+domain: de-data-lab.github.io
 url: https://de-data-lab.github.io
 baseurl: "/learning-git" # Repository name
