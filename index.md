@@ -1,43 +1,26 @@
 ---
-title: Learning Git/GitHub
+title: Home
 layout: template
---- 
+---
 
+## Add yourself
 
-## Welcome to GitHub Pages
+Add yourself to the list of awesome people above!
 
-You can use the [editor on GitHub](https://github.com/de-data-lab/learning-git/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Steps
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Go to <a href="{{ site.github.repository_url }}">our repo</a> & clone the repo to your
+2. Open an issue to tell the world that you are adding your profile
+3. Create a branch with your name, issue #, and a short word phrase about your profile
+4. Develop your profile using a Markdown and name it as `{yourname}.md`. Save your file under the `/profiles` directory. See [Nami's example]({% link profiles/nami.md %}). You can put anything you'd like there. Some suggestions:
+   1. Your picture
+   2. Bio
+   3. Tech Stacks
+   4. Hobbies
+5. Make commits
+6. Push your branch to remote
+7. Open a pull request
+8. Get your pull request reviewed and approved by your partner
+9. Merge your own pull request
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/de-data-lab/learning-git/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bonus: Figure out how to remove the empty box appearing as the last item of the menu.
