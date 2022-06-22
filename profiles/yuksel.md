@@ -5,7 +5,7 @@ filename: yuksel
 --- 
 
 
-# Nami Sunami
+# Yuksel Karahan
 
 ![Yuksel Karahan Profile Picture 2022](https://avatars.githubusercontent.com/u/45100650?s=400&u=1429e050f7c9c85cc42eb0e96ecb706f7fccbfba&v=4)
 
