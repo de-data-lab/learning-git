@@ -24,7 +24,15 @@
       <a href="{{ page.url | relative_url }}" class="btn">{{page.title}}</a>
       {% endif %}
       {% endfor %}
-        <a href="{{ page.url | relative_url }}" class="btn">{{ page.title }}</a>
+
+      <!-- Do not render home -->
+      {% for page in site.pages %}
+        {% if page.title != "Home" & %}
+          <!-- Do not show a button for the CSS file -->
+          {% if page.path != "assets/css/style.scss"%}
+            <a href="{{ page.url | relative_url }}" class="btn">{{ page.title }}</a>
+          {% endif %}
+        {% endif %}
       {% endfor %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
