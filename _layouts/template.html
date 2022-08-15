@@ -14,12 +14,25 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+      <!-- Render home first -->      
       {% for page in site.pages %}
-        <a href="{{ page.url | relative_url }}" class="btn">{{ page.title }}</a>
+      {% if page.title == "Home"%}
+      <a href="{{ page.url | relative_url }}" class="btn">{{page.title}}</a>
+      {% endif %}
+      {% endfor %}
+
+      <!-- Do not render home -->
+      {% for page in site.pages %}
+        {% if page.title != "Home" & %}
+          <!-- Do not show a button for the CSS file -->
+          {% if page.path != "assets/css/style.scss"%}
+            <a href="{{ page.url | relative_url }}" class="btn">{{ page.title }}</a>
+          {% endif %}
+        {% endif %}
       {% endfor %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
