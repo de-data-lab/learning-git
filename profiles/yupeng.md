@@ -10,7 +10,7 @@ filename: Yupeng
 
 ## Profile
 
-<!-- Short description about you -->
+I love tech and everything about it
 
 ## Tech Stacks
 
