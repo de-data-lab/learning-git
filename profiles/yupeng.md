@@ -11,7 +11,7 @@ filename: Yupeng
 
 ## Profile
 
-I love tech and everything about it
+I love tech and everything about it.
 
 ## Tech Stacks
 
