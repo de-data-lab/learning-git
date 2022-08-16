@@ -4,7 +4,7 @@ layout: template
 filename: Yupeng
 ---
 
-# FirstName LastName
+# Yupeng Lei
 
 ![YupengLei_headshot](https://user-images.githubusercontent.com/43587241/184902794-7f83b8af-66ac-4291-888b-3ae22cd66039.jpeg)
 
