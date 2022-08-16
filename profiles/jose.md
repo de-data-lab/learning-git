@@ -4,7 +4,7 @@ layout: template
 filename: jose
 ---
 
-# FirstName LastName
+# Jose Dominguez
 
 ![Jose](https://user-images.githubusercontent.com/93221596/184901876-568c8320-d514-49b4-9384-fcbcb1e5b7e9.png)
 
