@@ -7,7 +7,7 @@ filename: Tameca
 # Tameca Beckett
 
 <!-- ![profilePicture](*your-URL*.png) -->
-https://i0.wp.com/drjewell.com/wp-content/uploads/2022/07/Headshot-1.jpg?resize=1389%2C2048&ssl=1
+https://user-images.githubusercontent.com/101376999/184911743-74bcdefd-8ed9-4ab3-b93a-6432b110ea8a.jpg
 ## Profile
 
 <!-- Short description about you -->
