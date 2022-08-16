@@ -4,7 +4,7 @@ layout: template
 filename: nile
 ---
 
-# FirstName LastName
+# Nile Miller
 
 ![Nile Miller Profile Picture](https://user-images.githubusercontent.com/83549283/184902620-205e6ae5-acf3-4025-9b57-2b424427622a.jpeg)
 
