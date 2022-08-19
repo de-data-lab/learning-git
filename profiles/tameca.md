@@ -6,8 +6,8 @@ filename: Tameca
 
 # Tameca Beckett
 
-<!-- ![profilePicture](*your-URL*.png) -->
-https://user-images.githubusercontent.com/101376999/184911743-74bcdefd-8ed9-4ab3-b93a-6432b110ea8a.jpg
+ ![Tameca's Profile Picture](https://user-images.githubusercontent.com/101376999/184911743-74bcdefd-8ed9-4ab3-b93a-6432b110ea8a.jpg)
+
 ## Profile
 
 <!-- Short description about you -->
